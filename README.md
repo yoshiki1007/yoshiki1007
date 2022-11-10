@@ -4,8 +4,8 @@
 - 🦄 Agile software development.
 
 <a href="https://github.com/yoshiki1007">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=yoshiki1007&count_private=true&show_icons=true" />
+  <img height="167px" src="https://github-readme-stats.vercel.app/api?username=yoshiki1007&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/yoshiki1007">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiki1007&layout=compact" />
+  <img height="167px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoshiki1007&layout=compact" />
 </a>
